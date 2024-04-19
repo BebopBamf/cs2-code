@@ -7,7 +7,6 @@ from sklearn.svm import SVC
 
 np.random.seed(42)
 
-
 def generate_random_population(num_individuals, num_features):
     return np.random.randint(0, 2, (num_individuals, num_features))
 
