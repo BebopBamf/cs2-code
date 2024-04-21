@@ -1,3 +1,0 @@
-[submodule "data/instafake"]
-	path = data/instafake
-	url = git@github.com:fcakyon/instafake-dataset.git
